@@ -1,6 +1,4 @@
-# My-projects
-
-This folder contains following project script and their individual readme files :)
+This repository contains the scripts of the following projects and their individual readme files :)
 
 - **Compound activity prediction**: using convolutional neural network by first encoding their SMILES structures using one-hot encoding from scikit-learn and tensorflow
 - **Time series analysis**: on COVID-19 infection using Prophet library and LSTMS.
