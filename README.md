@@ -1,3 +1,3 @@
-# This repository contains working examples of some of the machine learning methods.
+### This repository contains working examples of some of the machine learning methods.
 
-Keywords: Classification, neural network, Py-Spark, BigQuery
+#### Keywords: Classification, neural network, Py-Spark, BigQuery
